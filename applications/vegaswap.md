@@ -2,7 +2,7 @@
 
 * **Project Name:** Vegaswap.io
 * **Team Name:** Vegaswap
-* **Payment Address:** mcaps.eth
+* **Payment Address:** vegaswap.eth
 
 *The above combination of your GitHub account submitting the application and payment address will be your unique identifier during the program. Please keep them safe.*
 
